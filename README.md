@@ -1,10 +1,8 @@
 ### Пример использования ###
 
 
-```
-#!php
-
- <? $APPLICATION->IncludeComponent(
+```php
+<? $APPLICATION->IncludeComponent(
 	"ws:social.block.links.from.iblock", 
 	".default", 
 	array(
